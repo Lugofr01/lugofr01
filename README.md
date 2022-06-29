@@ -5,7 +5,7 @@ Aspiring Software Engineer
 --------------------------
 
 * 🌍  I'm based in United States of America
-* ✉️  You can contact me at [lugolafrank@gmail.com or lugofr01@luther.edu](mailto:lugolafrank@gmail.com or lugofr01@luther.edu)
+* ✉️  You can contact me at lugolafrank@gmail.com or lugofr01@luther.edu
 * 🧠  I'm learning Node JS
 
 <a href="https://www.twitter.com/franklugola" target="_blank" rel="noreferrer"><img
