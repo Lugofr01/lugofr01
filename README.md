@@ -1,11 +1,10 @@
 Hi 👋 My name is Frank Lugola
 =============================
 
-Aspiring Software Engineer
+Graduate Student @Depaul University
 --------------------------
 
 * 🌍  I'm based in United States of America
-* ✉️  You can contact me at lugolafrank@gmail.com or lugofr01@luther.edu
 * 🧠  I'm learning Node JS
 
 <a href="https://www.twitter.com/franklugola" target="_blank" rel="noreferrer"><img
